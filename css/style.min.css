@@ -2162,4 +2162,337 @@
     bottom: 0;
     left: 37%;
   }
+  /* ************************block 3****************************
+************************block 3****************************
+************************block 3**************************** */
+  .Waxom-is-ealization {
+    display: none;
+  }
+  /* ************************block 4****************************
+************************block 4****************************
+************************block 4**************************** */
+  .Purchase-Now {
+    width: 100%;
+    padding: 3%;
+    flex-wrap: wrap;
+  }
+  .Purchase-Now .Purchase-Now-cont-next {
+    width: 100%;
+  }
+  .Purchase-Now .Purchase-Now-cont-next .h2-Purchase-Now {
+    text-align: center;
+    margin: 0;
+  }
+  .Purchase-Now .Purchase-Now-cont-next .text-brown {
+    font-family: "Raleway regular", "Arial", Sans-serif;
+    font-size: 18px;
+    color: #c7b299;
+  }
+  .Purchase-Now .Purchase-Now-cont-next .text-white {
+    font-family: "Raleway regular", "Arial", Sans-serif;
+    font-size: 18px;
+    color: #ffffff;
+  }
+  .Purchase-Now .Purchase-Now-cont-next .p-Purchase-Now {
+    text-align: center;
+    margin: 8px 0 0 -3px;
+    font-family: "Montserrat light", "Arial", Sans-serif;
+    font-size: 14px;
+    color: #615855;
+  }
+  .Purchase-Now .button-Purchase-Now {
+    margin: 2% auto 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    outline: none;
+    width: 40%;
+    border-radius: 5px;
+    background-color: #998675;
+    text-decoration: none;
+    min-height: auto;
+    padding: 2%;
+    box-shadow: inset 0 -3px 0 #736357;
+    font-family: "Raleway regular", "Arial", Sans-serif;
+    font-size: 14px;
+    color: #fff;
+    border: none;
+    text-transform: uppercase;
+  }
+  .Purchase-Now .button-Purchase-Now:hover {
+    background-color: #e7d0be;
+    color: #4d0a0a;
+  }
+  .Purchase-Now .button-Purchase-Now:active {
+    background-color: #836854;
+    color: white;
+  }
+  /* 
+**********************Our-Latest-Projects***********************
+**********************Our-Latest-Projects***********************
+**********************Our-Latest-Projects***********************
+**********************Our-Latest-Projects*********************** */
+  .Our-Latest-Projects {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 2%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-bottom: 1px solid #8c8c8c;
+  }
+  .h2-Our-Latest-Projects {
+    margin: 5% auto 0;
+    text-align: center;
+    width: 90%;
+    font-family: "Raleway SemiBold", "Arial", Sans-serif;
+    font-size: 20px;
+    color: #555555;
+  }
+  .p-Our-Latest-Projects {
+    margin: 5% auto 0;
+    text-align: center;
+    width: 100%;
+    line-height: 28px;
+    font-family: "Montserrat regular", "Arial", Sans-serif;
+    font-size: 16px;
+    color: #8c8c8c;
+    position: relative;
+  }
+  .nav-Our-Latest-Projects {
+    display: flex;
+    width: 100%;
+    box-sizing: border-box;
+    margin: 5% auto 0;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  .nav-Our-Latest-Projects .button-Our-Latest-Projects {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+  }
+  .nav-Our-Latest-Projects .button-Our-Latest-Projects:nth-child(1) {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    outline: none;
+    width: 48%;
+    border-radius: 3px;
+    background-color: #c09e7e;
+    text-decoration: none;
+    min-height: 22px;
+    margin: 1% auto;
+  }
+  .nav-Our-Latest-Projects .button-Our-Latest-Projects:nth-child(1):hover {
+    background-color: #422b19d5;
+    color: #f8f8f8;
+  }
+  .nav-Our-Latest-Projects .button-Our-Latest-Projects:nth-child(1):active {
+    background-color: #d8c29a;
+    color: white;
+  }
+  .nav-Our-Latest-Projects .button-Our-Latest-Projects:nth-child(2) {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    outline: none;
+    width: 48%;
+    border-radius: 3px;
+    background-color: #c09e7e;
+    text-decoration: none;
+    min-height: 22px;
+    margin: 1% auto;
+  }
+  .nav-Our-Latest-Projects .button-Our-Latest-Projects:nth-child(2):hover {
+    background-color: #422b19d5;
+    color: #f8f8f8;
+  }
+  .nav-Our-Latest-Projects .button-Our-Latest-Projects:nth-child(2):active {
+    background-color: #d8c29a;
+    color: white;
+  }
+  .nav-Our-Latest-Projects .button-Our-Latest-Projects:nth-child(3) {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    outline: none;
+    width: 48%;
+    border-radius: 3px;
+    background-color: #c09e7e;
+    text-decoration: none;
+    min-height: 22px;
+    margin: 1% auto;
+  }
+  .nav-Our-Latest-Projects .button-Our-Latest-Projects:nth-child(3):hover {
+    background-color: #422b19d5;
+    color: #f8f8f8;
+  }
+  .nav-Our-Latest-Projects .button-Our-Latest-Projects:nth-child(3):active {
+    background-color: #d8c29a;
+    color: white;
+  }
+  .nav-Our-Latest-Projects .button-Our-Latest-Projects:nth-child(4) {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    outline: none;
+    width: 48%;
+    border-radius: 3px;
+    background-color: #c09e7e;
+    text-decoration: none;
+    min-height: 22px;
+    margin: 1% auto;
+  }
+  .nav-Our-Latest-Projects .button-Our-Latest-Projects:nth-child(4):hover {
+    background-color: #422b19d5;
+    color: #f8f8f8;
+  }
+  .nav-Our-Latest-Projects .button-Our-Latest-Projects:nth-child(4):active {
+    background-color: #d8c29a;
+    color: white;
+  }
+  .nav-Our-Latest-Projects .button-Our-Latest-Projects:nth-child(5) {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    outline: none;
+    width: 48%;
+    border-radius: 3px;
+    background-color: #c09e7e;
+    text-decoration: none;
+    min-height: 22px;
+    margin: 1% auto;
+  }
+  .nav-Our-Latest-Projects .button-Our-Latest-Projects:nth-child(5):hover {
+    background-color: #422b19d5;
+    color: #f8f8f8;
+  }
+  .nav-Our-Latest-Projects .button-Our-Latest-Projects:nth-child(5):active {
+    background-color: #d8c29a;
+    color: white;
+  }
+  .rov1-Our-Latest-Projects {
+    padding: 3% 1%;
+    width: 100%;
+    margin-top: 0;
+  }
+  .rov1-Our-Latest-Projects .a-Our-Latest-Projects {
+    background-color: #fbfaf8;
+    width: 100%;
+    text-decoration: none;
+    position: relative;
+  }
+  .rov1-Our-Latest-Projects .a-link {
+    position: absolute;
+    left: 40%;
+    top: 25%;
+    z-index: 206;
+    display: none;
+  }
+  .rov1-Our-Latest-Projects .a-lupa {
+    position: absolute;
+    left: 55%;
+    top: 25%;
+    z-index: 205;
+    display: none;
+  }
+  .rov1-Our-Latest-Projects .img-Our-Latest-Projects {
+    width: 100% !important;
+    height: auto !important;
+    display: inline-block;
+    background-color: #2f2f2f;
+  }
+  .rov1-Our-Latest-Projects .a-Our-Latest-Projects:nth-child(2),
+  .rov1-Our-Latest-Projects .a-Our-Latest-Projects:nth-child(3),
+  .rov1-Our-Latest-Projects .a-Our-Latest-Projects:nth-child(4),
+  .rov1-Our-Latest-Projects .a-Our-Latest-Projects:nth-child(5),
+  .rov1-Our-Latest-Projects .a-Our-Latest-Projects:nth-child(6) {
+    margin-top: 35px;
+  }
+  .button-Our-Latest-Projectss {
+    margin: 5% auto 0;
+    min-height: auto;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    outline: none;
+    width: 40%;
+    border-radius: 5px;
+    background-color: #998675;
+    text-decoration: none;
+    font-family: "Raleway regular", "Arial", Sans-serif;
+    font-size: 14px;
+    color: white;
+  }
+  .button-Our-Latest-Projectss:hover {
+    background-color: #a57449;
+    color: white;
+  }
+  .button-Our-Latest-Projectss:active {
+    background-color: #b35e14;
+    color: white;
+  }
+  /* **********************video***********************************
+**********************video***********************************
+**********************video***********************************
+**********************video*********************************** */
+  .video {
+    position: relative;
+    width: 100%;
+    height: auto;
+  }
+  .video::after {
+    display: block;
+    clear: both;
+    content: "";
+  }
+  .video-precenteition {
+    margin: 0;
+    width: 100% !important;
+    height: 36.7% !important;
+    outline: none;
+    background-color: #445162;
+    object-fit: cover;
+  }
+  .video-content {
+    width: 100%;
+    height: inherit;
+  }
+  .fon-video {
+    width: 100% !important;
+    height: 153.7% !important;
+  }
+  .start-video {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+    border-radius: 50%;
+    background-color: rgba(0, 0, 0, 0.2);
+    width: 100px;
+    height: 100px;
+    z-index: 200;
+    border: none;
+    outline: none;
+  }
+  .h2-video {
+    display: none;
+  }
+  .p-video {
+    display: none;
+  }
+  .video-time {
+    margin: 0;
+    padding: 0;
+    display: block;
+    text-align: center;
+    margin-top: 28px;
+    width: 90px;
+    font-family: "Montserrat regular", "Arial", Sans-serif;
+    font-size: 14px;
+    color: #c7b299;
+    z-index: 205;
+  }
 }
