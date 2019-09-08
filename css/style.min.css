@@ -85,7 +85,6 @@
 }
 
 .header {
-  order: 1;
   width: 1920px;
   background-image: url("../img/fon_header.jpg");
   background-size: cover;
@@ -546,7 +545,6 @@
 /*************************************help**********************************/
 /*************************************help**********************************/
 .cont-help {
-  order: 2;
   padding: 70px 341px 79px 376px;
   display: flex;
   justify-content: space-between;
@@ -638,7 +636,6 @@
 /*************************************Waxom-is-ealization**********************************/
 /*************************************Waxom-is-ealization**********************************/
 .Waxom-is-ealization {
-  order: 3;
   width: 1920px;
   box-sizing: border-box;
   display: flex;
@@ -709,7 +706,6 @@
 /*************************************Purchase-Now**********************************/
 .Purchase-Now {
   width: 100%;
-  order: 4;
   box-sizing: border-box;
   display: flex;
   justify-content: space-between;
@@ -784,7 +780,6 @@
 **********************Our-Latest-Projects***********************
 **********************Our-Latest-Projects*********************** */
 .Our-Latest-Projects {
-  order: 5;
   width: 100%;
   box-sizing: border-box;
   padding: 75px 376px 78px 374px;
@@ -1121,7 +1116,6 @@
 **********************video***********************************
 **********************video*********************************** */
 .video {
-  order: 6;
   display: flex;
   position: relative;
 }
@@ -1224,7 +1218,6 @@
 *****************************Excellent for Mobile Devices.******************************
 *****************************Excellent for Mobile Devices.**************************  */
 .section-Excellent-for-Mobile-Devices {
-  order: 7;
   width: 100%;
   padding: 188px 350px 174px 873px;
   background: url(../img/iPhone-in-hand.png) no-repeat center;
@@ -1308,7 +1301,6 @@
 *****************************Statistic******************************
 *****************************Statistic**************************  */
 .aside-statistic {
-  order: 8;
   width: 100%;
   padding: 69px 484px 60px 492px;
   display: flex;
@@ -1384,7 +1376,6 @@
 *****************************Resent posts******************************
 *****************************Resent posts**************************  */
 .resent-posts {
-  order: 9;
   width: 100%;
   box-sizing: border-box;
   padding: 78px 345px 81px 374px;
@@ -1585,7 +1576,6 @@
 ***********************************aside-grup-logos***********************************
 ***********************************aside-grup-logos******************************** */
 .aside-grup-logos {
-  order: 10;
   width: 100%;
   box-sizing: border-box;
   padding: 138px 400px 132px 400px;
@@ -1628,7 +1618,6 @@
 ***********************************information***********************************
 ***********************************information******************************** */
 .information {
-  order: 11;
   width: 1920px;
   box-sizing: border-box;
   padding: 76px 366px 76px 365px;
@@ -1860,7 +1849,6 @@
 *****************************footer*****************************
 *****************************footer************************** */
 .footer-main {
-  order: 12;
   width: 100%;
   box-sizing: border-box;
   padding: 42px 375px 40px 375px;
