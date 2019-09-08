@@ -1122,9 +1122,8 @@
 **********************video***********************************
 **********************video*********************************** */
 .video {
+  display: flex;
   position: relative;
-  width: 1920px;
-  height: 706px;
 }
 
 .video-precenteition {
@@ -2240,6 +2239,7 @@
     flex-direction: column;
     justify-content: center;
     border-bottom: 1px solid #8c8c8c;
+    background-color: #f8f5f5;
   }
   .h2-Our-Latest-Projects {
     margin: 5% auto 0;
@@ -2376,6 +2376,7 @@
     padding: 3% 1%;
     width: 100%;
     margin-top: 0;
+    background-color: #f8f5f5;
   }
   .rov1-Our-Latest-Projects .a-Our-Latest-Projects {
     background-color: #fbfaf8;
@@ -2441,41 +2442,23 @@
   .video {
     position: relative;
     width: 100%;
-    height: auto;
-  }
-  .video::after {
-    display: block;
-    clear: both;
-    content: "";
+    height: 36.7%;
   }
   .video-precenteition {
     margin: 0;
     width: 100% !important;
     height: 36.7% !important;
-    outline: none;
-    background-color: #445162;
-    object-fit: cover;
   }
   .video-content {
-    width: 100%;
-    height: inherit;
+    width: inherit;
+    height: 100%;
   }
   .fon-video {
     width: 100% !important;
-    height: 153.7% !important;
+    height: 100% !important;
   }
   .start-video {
-    display: flex;
-    justify-content: center;
-    align-items: center;
     margin-top: 10%;
-    border-radius: 50%;
-    background-color: rgba(0, 0, 0, 0.2);
-    width: 100px;
-    height: 100px;
-    z-index: 200;
-    border: none;
-    outline: none;
   }
   .h2-video {
     display: none;
@@ -2483,16 +2466,90 @@
   .p-video {
     display: none;
   }
-  .video-time {
+  /* 
+<!-- *****************************Excellent for Mobile Devices.*************************
+*****************************Excellent for Mobile Devices.******************************
+*****************************Excellent for Mobile Devices.******************************
+*****************************Excellent for Mobile Devices.************************** --> */
+  .section-Excellent-for-Mobile-Devices {
+    padding: 2% 2% 0 2%;
+    /* background-position-y: bottom;
+  background-position-x: 39%;
+  background-size: 209%; */
+    background: url(../img/iPhone-in-hand.png) no-repeat center;
+    background-image: none;
+  }
+  .h2-Excellent-for-Mobile-Devices {
+    width: 100%;
+    float: none;
+    text-align: center;
+    font-family: "Raleway SemiBold", "Arial", Sans-serif;
+    font-size: 20px;
+    color: #555555;
+  }
+  .p-Excellent-for-Mobile-Devices {
+    margin-top: 5%;
+    font-weight: normal;
+    line-height: 20px;
+    width: 100%;
+    float: none;
+    text-align: center;
+    font-family: "Montserrat regular", "Arial", Sans-serif;
+    font-size: 12px;
+    color: #555555;
+  }
+  .ul-Excellent-for-Mobile-Devices {
+    position: relative;
+    width: 60%;
     margin: 0;
     padding: 0;
+    float: none;
+    list-style-type: none;
+    margin-top: 30px;
+    padding-left: 40%;
+  }
+  .ul-Excellent-for-Mobile-Devices::after {
     display: block;
-    text-align: center;
-    margin-top: 28px;
-    width: 90px;
+    clear: both;
+    content: "";
+  }
+  .ul-Excellent-for-Mobile-Devices::before {
+    position: absolute;
+    content: '';
+    display: block;
+    width: 38%;
+    height: 100%;
+    background: url(../img/iPhone-in-hand-mobil.png) no-repeat center;
+    background-size: contain;
+    left: -2%;
+  }
+  .li-Excellent-for-Mobile-Devices {
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+    line-height: 22px;
+    width: 100%;
+    float: left;
+    text-align: left;
     font-family: "Montserrat regular", "Arial", Sans-serif;
-    font-size: 14px;
-    color: #c7b299;
-    z-index: 205;
+    font-size: 12px;
+    color: #555555;
+    position: relative;
+  }
+  .li-Excellent-for-Mobile-Devices:last-child {
+    margin-bottom: 3%;
+  }
+  .li-Excellent-for-Mobile-Devices::before {
+    content: "";
+    display: block;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background: url(../img/011.svg) no-repeat center;
+    background-size: cover;
+    color: white;
+    position: absolute;
+    left: -20px;
+    top: 5px;
   }
 }
