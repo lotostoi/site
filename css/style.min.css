@@ -1219,6 +1219,7 @@
 *****************************Excellent for Mobile Devices.**************************  */
 .section-Excellent-for-Mobile-Devices {
   width: 100%;
+  order: 10;
   padding: 188px 350px 174px 873px;
   background: url(../img/iPhone-in-hand.png) no-repeat center;
   background-size: cover;
@@ -1978,7 +1979,7 @@
   }
   .header .logo-nav-sersh .a-logo {
     display: block;
-    width: 87%;
+    width: 60%;
     display: flex;
     align-items: center;
     text-decoration: none;
